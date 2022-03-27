@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
 resourcetype: Document
 title: Differences-in-Differences and Clustering
 uid: f3afe548-0084-c58a-8ae5-d74e1d05bed1

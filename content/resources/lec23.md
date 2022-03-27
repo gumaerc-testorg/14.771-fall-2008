@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49831747-2ccc-c2ad-99e7-970f76ec7348
 resourcetype: Document
 title: Savings
 uid: 58a7f23f-ee05-f826-7a55-1f4e82307eb8

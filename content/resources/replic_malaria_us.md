@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Other
 title: replic_malaria_us
 uid: e5d39322-e13a-82ea-6184-a959560f4bfe

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
 resourcetype: Document
 title: '  normal Learning and Inference With Multiple Outcomes'
 uid: 1318b99c-b026-5f03-f17a-9942aa52a0bc

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: Questions on Foster and Rosenzweig (1995)
 uid: e08d5e52-53d4-f814-9535-0080c1998139

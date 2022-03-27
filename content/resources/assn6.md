@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: Questions on Tirole (1996)
 uid: cb14ad4f-f9e4-4d1f-f479-bb98ca50fd5c

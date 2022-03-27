@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: Questions on Dasgupta and Ray (1986) and Srinivasan (1994)
 uid: c86da610-2a2e-4b60-b2b2-0c82d66e2164

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: Questions on Duflo and Udry (2003)
 uid: 43daaf63-c27e-266b-6860-3603424f91d2

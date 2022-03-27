@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49831747-2ccc-c2ad-99e7-970f76ec7348
 resourcetype: Document
 title: Education Quality
 uid: 2af15342-8ddc-7d48-7e41-6f444f7f4ab5

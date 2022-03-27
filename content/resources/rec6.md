@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
 resourcetype: Document
 title: Consumption Insurance and Separability
 uid: 2240acb5-01e7-21b6-54db-6f9351c2e3e9

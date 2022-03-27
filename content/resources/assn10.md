@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: 'Questions on Karlan and Zinman (2008) '
 uid: 63d5a9f5-9d60-808e-90c6-ed4465099112

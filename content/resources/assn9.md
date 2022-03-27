@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: Questions on Banerjee, Gertler, and Ghatak (2002)
 uid: 3ba66934-4c1c-59ab-dc34-52138be3b419

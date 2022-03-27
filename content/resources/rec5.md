@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
 resourcetype: Document
 title: Regression Discontinuity, Attrition/Bounds, and Education
 uid: 19a5d3f9-de70-4f7a-841c-0c1ad23efa98

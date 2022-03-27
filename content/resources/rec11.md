@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
 resourcetype: Document
 title: "Property Rights \u2014 Empirical Work"
 uid: c45b49d8-1548-605d-5f7d-f2e0b7b493a4

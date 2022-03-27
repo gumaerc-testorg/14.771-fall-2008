@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49831747-2ccc-c2ad-99e7-970f76ec7348
 resourcetype: Document
 title: Technology Lecture 2
 uid: c04d5408-93ae-c2bb-804c-a192fe05f414

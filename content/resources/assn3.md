@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cb29442-363a-f23b-5aaf-ffa97071c4d7
 resourcetype: Document
 title: Questions on Duflo, Hanna, and Ryan (2008)
 uid: 38c6e1a8-4580-640d-fc9b-106ae54bee7c

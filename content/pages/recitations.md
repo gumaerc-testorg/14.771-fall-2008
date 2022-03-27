@@ -37,7 +37,7 @@ Nonparametric regression and measurement error
 
 ([PDF]({{< baseurl >}}/resources/rec1))
 
-STATA example ([DO](./resolveuid/efd8ade1abc0cce211e614351a921431))
+STATA example ([DO]({{< baseurl >}}/resources/rec1_data))
 
 
 {{< tdclose >}}

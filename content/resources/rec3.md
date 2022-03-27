@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
 resourcetype: Document
 title: Questions on Acemoglu and Johnson (2006) and Field, Robles, and Torero (2007)
 uid: 229be544-dd0f-2060-77d4-2ef7d9e969e6

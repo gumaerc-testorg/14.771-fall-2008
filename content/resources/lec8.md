@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49831747-2ccc-c2ad-99e7-970f76ec7348
 resourcetype: Document
 title: Gender Discrimination
 uid: a74e04f8-c043-067c-257a-0fb8c4306ea0

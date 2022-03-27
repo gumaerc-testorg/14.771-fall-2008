@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49831747-2ccc-c2ad-99e7-970f76ec7348
 resourcetype: Document
 title: The Demand for Health and Calories
 uid: 277f8b44-acd1-ae58-9d6b-841c8043675b
