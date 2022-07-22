@@ -7,6 +7,7 @@ file: /courses/14-771-development-economics-microeconomic-issues-and-policy-mode
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on technology adoption, pitfalls of learning, savings and other constraints, how technology can affect markets, appropriate technology, and international technology transfer.
-

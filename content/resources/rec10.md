@@ -5,6 +5,7 @@ file: /courses/14-771-development-economics-microeconomic-issues-and-policy-mode
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Recitation notes on contract theory, moral hazard, and adverse selection.
-

@@ -5,6 +5,7 @@ file: /courses/14-771-development-economics-microeconomic-issues-and-policy-mode
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Final exam on development economics from the 2006 version of the course.
-
