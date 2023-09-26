@@ -313,7 +313,7 @@ Decision making within families
 
 **Must Read in Detail**
 
-Duflo, Esther, and Christopher Udry. "Intrahousehold Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices." MIT, June 2003. ([PDF](http://www.econ.yale.edu/~cru2/pdf/ivoire_RES_comp.pdf))
+Duflo, Esther, and Christopher Udry. "[Intrahousehold Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices.](https://www.nber.org/papers/w10498)" MIT, June 2003. (PDF)
 
 **Other Readings**
 
@@ -395,7 +395,7 @@ Jensen, R. "The Digital Provide: Information (Technology), Market Performance an
 
 Duflo, Esther, Michael Kremer, and Jonathan Robinson. "Understanding Technology Adoption: Fertilizer in Western Kenya, Evidence from Field Experiments." Unpublished working paper, April 2006. ([PDF](https://pdfs.semanticscholar.org/f522/5b7ab77fd41c8224fb26e48d4fb00425d460.pdf))
 
-Conley, Timothy, and Christopher Udry. "[Learning about a New Technology: Pineapple in Ghana](https://www.aeaweb.org/articles?id=10.1257/aer.100.1.35)." Unpublished working paper, July 2005. 
+Conley, Timothy, and Christopher Udry. "[Learning about a New Technology: Pineapple in Ghana](https://www.aeaweb.org/articles?id=10.1257/aer.100.1.35)." *American Economic Review* 100 (no. 1): 2010. 
 
 Oriana, Bandeira, and Imran Rasul. "Social Networks and Technology Adoption in Northern Mozambique." *The Economic Journal* 116, no. 514 (2006): 869-902.
 
@@ -459,7 +459,7 @@ Banerjee, Abhijit, Paul Gertler and Maitresh Ghatak. "Empowerment and Efficiency
 
 Shaban, Radwan. "Testing between Competing Models of Sharecropping." *Journal of Political Economy* 95, no. 5 (1987): 893-920.
 
-Banerjee, Abhijit. "Prospects and Strategies for Land Reforms." In *Annual World Bank Conference on Development Economics 1999*. Edited by Boris Pleskovic and Joseph E. Stiglitz. Washington, DC: World Bank, 2001, pp. 253-284. ISBN: 9780821349052. An earlier version: ([PDF](https://economics.mit.edu/files/8939))
+Banerjee, Abhijit. "[Prospects and Strategies for Land Reforms](https://dspace.mit.edu/bitstream/handle/1721.1/63873/landreformsprosp00bane.pdf?sequence=1)." In *Annual World Bank Conference on Development Economics 1999*. Edited by Boris Pleskovic and Joseph E. Stiglitz. Washington, DC: World Bank, 2001, pp. 253-284. ISBN: 9780821349052.
 
 Field, Erica. "Entitled to Work: Urban Property Rights and Labor Supply in Peru." Unpublished paper, July 2003.
 
@@ -475,7 +475,7 @@ The supply-side of the markets for credit and savings
 
 **Must Read in Detail**
 
-Karlan, Dean, and Jonathan Zinman. "Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment." Unpublished paper, September 2008. ([PDF](https://www.povertyactionlab.org/sites/default/files/research-paper/363%20-%20information%20asymmetries%20working%20dec%202008.pdf)) Web appendix: ([PDF](http://www.dartmouth.edu/~jzinman/Papers/Karlan&Zinman_OU_ecma_ca_WebAppend.pdf))
+Karlan, Dean, and Jonathan Zinman. "Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment." Unpublished paper, September 2008. ([PDF](https://www.povertyactionlab.org/sites/default/files/research-paper/363%20-%20information%20asymmetries%20working%20dec%202008.pdf)) 
 
 **Other Readings**
 
@@ -517,7 +517,7 @@ The demand-side of the markets for credit and savings
 
 **Must Read in Detail**
 
-Banerjee, Abhijit, and Sendhil Mullainathan. "The Shape of Temptation: Implications for the Economic Lives of the Poor." Unpublished paper, September 2008. ([PDF](https://economics.mit.edu/files/5575))
+Banerjee, Abhijit, and Sendhil Mullainathan. "[The Shape of Temptation: Implications for the Economic Lives of the Poor](https://economics.mit.edu/sites/default/files/publications/The%20Shape%20of%20Temptation.pdf)." Unpublished paper, September 2008. (PDF)
 
 **Other Readings**
 
