@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on testing household models, income pooling, and
   household efficiency.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/27cd0fb3152131fe81b8484670e795cf_lec12.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/27cd0fb3152131fe81b8484670e795cf_lec12.pdf
+file_size: 386637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

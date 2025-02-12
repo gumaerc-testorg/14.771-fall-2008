@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on the capacity curve.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/99dc0154c3c6a7a3f3f8cd73222d1c9e_lec2.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/99dc0154c3c6a7a3f3f8cd73222d1c9e_lec2.pdf
+file_size: 120215
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

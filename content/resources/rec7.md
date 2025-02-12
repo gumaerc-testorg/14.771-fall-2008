@@ -2,7 +2,8 @@
 content_type: resource
 description: Recitation notes on a paper by Browning and Chiappori (1998) on empirical
   tests of efficient households.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/a34a2337241c5eb55c84f987f5f6a329_rec7.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/a34a2337241c5eb55c84f987f5f6a329_rec7.pdf
+file_size: 123743
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on labor, migration, international migration and
   wage differentials, and networks among migrants.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/9cb0fb965ce2b3f70d5da2410a974873_lec18.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/9cb0fb965ce2b3f70d5da2410a974873_lec18.pdf
+file_size: 188292
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

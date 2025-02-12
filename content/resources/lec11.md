@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on family theory.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/ac49de2528786252c274c7fce3aa8300_lec11.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/ac49de2528786252c274c7fce3aa8300_lec11.pdf
+file_size: 125897
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

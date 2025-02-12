@@ -3,7 +3,8 @@ content_type: resource
 description: Recitation notes on Bayesian learning, normal learning, multiple outcomes
   in analysis, reducing the number of tests, the Familywise Error Rate (FWER), and
   the False Discovery Rate (FDR).
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/1318b99cb0265f03f17a9942aa52a0bc_rec8.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/1318b99cb0265f03f17a9942aa52a0bc_rec8.pdf
+file_size: 142630
 file_type: application/pdf
 learning_resource_types:
 - Recitations

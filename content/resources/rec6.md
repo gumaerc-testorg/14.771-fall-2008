@@ -2,7 +2,8 @@
 content_type: resource
 description: Recitation notes on consumption insurance, separability, and traditional
   optimal tax theory.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/2240acb501e721b654db6f9351c2e3e9_rec6.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/2240acb501e721b654db6f9351c2e3e9_rec6.pdf
+file_size: 125930
 file_type: application/pdf
 learning_resource_types:
 - Recitations

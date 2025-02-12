@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Problem set on the paper "Empowerment and Efficiency: Tenancy Reform
   in West Bengal" by Abhijit Banerjee, Paul Gertler, and Maitresh Ghatak.'
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/3ba669344c1c59abdc3452138be3b419_assn9.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/3ba669344c1c59abdc3452138be3b419_assn9.pdf
+file_size: 39004
 file_type: application/pdf
 learning_resource_types:
 - Assignments

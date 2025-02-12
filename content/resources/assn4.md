@@ -2,7 +2,8 @@
 content_type: resource
 description: Problem set on the paper  "Food Subsidies and Poverty Alleviation" by
   T. Besley and R. Kanbur.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/f0f8c690afbe1b1204816aba8fd6b963_assn4.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/f0f8c690afbe1b1204816aba8fd6b963_assn4.pdf
+file_size: 67853
 file_type: application/pdf
 learning_resource_types:
 - Assignments

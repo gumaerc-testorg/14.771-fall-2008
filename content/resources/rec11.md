@@ -2,7 +2,8 @@
 content_type: resource
 description: Recitation notes on property rights, a Peruvian property titling program,
   family labor supply, credit, and investments
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/c45b49d81548605d5f7df2e0b7b493a4_rec11.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/c45b49d81548605d5f7df2e0b7b493a4_rec11.pdf
+file_size: 84093
 file_type: application/pdf
 learning_resource_types:
 - Recitations

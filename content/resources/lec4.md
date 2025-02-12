@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on the impact of health on productivity.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/99411cd739ad91da2d2cca624d4cdfb1_lec4.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/99411cd739ad91da2d2cca624d4cdfb1_lec4.pdf
+file_size: 703747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

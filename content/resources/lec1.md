@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Introductory lecture presentation on developmental economics.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/76e04bd3cdb166171a275ad6d41c6940_lec1.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/76e04bd3cdb166171a275ad6d41c6940_lec1.pdf
+file_size: 191015
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

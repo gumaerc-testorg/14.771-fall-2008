@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on measuring and explaining gender discrimination.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/a74e04f8c043067c257a0fb8c4306ea0_lec8.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/a74e04f8c043067c257a0fb8c4306ea0_lec8.pdf
+file_size: 394323
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

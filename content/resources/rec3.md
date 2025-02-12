@@ -3,7 +3,8 @@ content_type: resource
 description: Recitation notes on the impact of increased life expectancy on economic
   performance, iodine deficiency and schooling attainment in Tanzania, and specification
   checks.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/229be544dd0f206077d42ef7d9e969e6_rec3.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/229be544dd0f206077d42ef7d9e969e6_rec3.pdf
+file_size: 119313
 file_type: application/pdf
 learning_resource_types:
 - Recitations

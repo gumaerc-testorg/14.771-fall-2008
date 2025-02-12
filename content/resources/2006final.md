@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Final exam on development economics from the 2006 version of the course.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/1c801f0719851002296826cc307d9a9c_2006final.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/1c801f0719851002296826cc307d9a9c_2006final.pdf
+file_size: 76437
 file_type: application/pdf
 learning_resource_types:
 - Exams

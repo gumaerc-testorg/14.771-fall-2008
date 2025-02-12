@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on education policy and market equilibrium.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/17fce45632e88cc80cf18e11af207256_lec7.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/17fce45632e88cc80cf18e11af207256_lec7.pdf
+file_size: 826516
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

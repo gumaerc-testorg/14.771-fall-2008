@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Recitation notes on contract theory, moral hazard, and adverse selection.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/b1ae3f2919beb937b4d1acc7a3b816b6_rec10.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/b1ae3f2919beb937b4d1acc7a3b816b6_rec10.pdf
+file_size: 106101
 file_type: application/pdf
 learning_resource_types:
 - Recitations

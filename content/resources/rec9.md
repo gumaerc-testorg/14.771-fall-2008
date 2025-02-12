@@ -2,7 +2,8 @@
 content_type: resource
 description: Recitation notes on herding behavior and why technologies may not be
   adopted optimally.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/61a548fdc6de968b56dcf78591f1c676_rec9.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/61a548fdc6de968b56dcf78591f1c676_rec9.pdf
+file_size: 199901
 file_type: application/pdf
 learning_resource_types:
 - Recitations

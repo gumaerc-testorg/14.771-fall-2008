@@ -4,7 +4,8 @@ description: Recitation notes with a quick review of probit/binary limited depen
   variable (LDV) maximum likelihood estimation (MLE), the identification problem,
   purely randomized studies, using randomized assignment as an instrument, and selecting
   sample size.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/d65d1763a73290f9ede24332c24e33f6_rec4.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/d65d1763a73290f9ede24332c24e33f6_rec4.pdf
+file_size: 205721
 file_type: application/pdf
 learning_resource_types:
 - Recitations

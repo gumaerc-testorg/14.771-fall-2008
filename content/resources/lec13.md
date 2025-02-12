@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on firms, contracts, legal issues, and reputation.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/053a266b6ebf33ac484d6d965ab5ae13_lec13.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/053a266b6ebf33ac484d6d965ab5ae13_lec13.pdf
+file_size: 241594
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

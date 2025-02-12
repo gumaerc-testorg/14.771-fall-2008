@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on the demand for health and nutrition.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/277f8b44acd1ae589d6b841c8043675b_lec3.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/277f8b44acd1ae589d6b841c8043675b_lec3.pdf
+file_size: 513758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

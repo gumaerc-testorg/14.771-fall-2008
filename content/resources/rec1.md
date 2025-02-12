@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Recitation notes on nonparametric regression and measurement error.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/c6a8021d5659ed17a71ceae0f8761a99_rec1.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/c6a8021d5659ed17a71ceae0f8761a99_rec1.pdf
+file_size: 152771
 file_type: application/pdf
 learning_resource_types:
 - Recitations

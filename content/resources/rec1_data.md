@@ -2,7 +2,8 @@
 content_type: resource
 description: This recitation supplement provides an example to illustrate nonparametric
   regression techniques and the effects of measurement error.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/efd8ade1abc0cce211e614351a921431_rec1_data.do
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/efd8ade1abc0cce211e614351a921431_rec1_data.do
+file_size: 1928
 file_type: text/plain
 learning_resource_types:
 - Recitations

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture presentation on private and social returns to education.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/cdae4fd787dd1a26d2d7b9e1ffed4e09_lec5.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/cdae4fd787dd1a26d2d7b9e1ffed4e09_lec5.pdf
+file_size: 528423
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

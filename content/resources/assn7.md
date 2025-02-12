@@ -2,7 +2,8 @@
 content_type: resource
 description: Problem set on the paper "Information, Learning, and Wage Rates in Rural
   Labor Markets" by Andrew Foster and Mark Rosenzweig.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/e08d5e5253d4f81495350080c1998139_assn7.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/e08d5e5253d4f81495350080c1998139_assn7.pdf
+file_size: 41842
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture presentation on public finance, poverty metrics, taxation, and
   redistribution.
-file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/3339ef4095901f90234edd5600303bb7_lec10.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/3339ef4095901f90234edd5600303bb7_lec10.pdf
+file_size: 219829
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
