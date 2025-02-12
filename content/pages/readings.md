@@ -53,7 +53,7 @@ Banerjee, Abhijit, and Esther Duflo. "Economic Lives of the Poor." *Journal of E
 
 ———. "What is Middle Class About the Middle Classes Around the World?" *Journal of Economic Perspectives* 22, no. 4 (2008): 3-28.
 
-Banerjee, Abhijit. "Big Answers for Big Questions: The Presumption of Growth Policy." Paper for the Brookings conference on "What Works in Development? Thinking Big and Thinking Small." June 30, 2008. ( [PDF](http://econ-www.mit.edu/files/3209))
+Banerjee, Abhijit. "Big Answers for Big Questions: The Presumption of Growth Policy." Paper for the Brookings conference on "What Works in Development? Thinking Big and Thinking Small." June 30, 2008. 
 
 Acemoglu, Daron, Simon Johnson, and James A. Robinson. "The Colonial Origins of Comparative Development: An Empirical Investigation." *American Economic Review* 91, no. 5 (2001): 1369-1401.
 
@@ -195,7 +195,7 @@ Duflo, Esther, Rema Hanna, and Stephen Ryan. "Monitoring Works: Getting Teachers
 
 Glewwe, Paul, and Michael Kremer. "Schools, Teachers, and Education Outcomes in Developing Countries." Chapter 16 in *Handbook of the Economics of Education*. Vol. 2. Edited by Erik A. Hanushek and Finis Welch. Amsterdam, The Netherlands: North Holland, 2006. ISBN: 9780444528193.
 
-Duflo, Esther, and Michael Kremer. "Use of Randomization in the Evaluation of Development Effectiveness." Paper for the Conference on Evaluating Development Effectiveness, World Bank Operations Evaluation Department (OED), Washington, D.C., July 15-16, 2003. ([PDF](http://econ-www.mit.edu/files/765))
+Duflo, Esther, and Michael Kremer. "Use of Randomization in the Evaluation of Development Effectiveness." Paper for the Conference on Evaluating Development Effectiveness, World Bank Operations Evaluation Department (OED), Washington, D.C., July 15-16, 2003. 
 
 ### Class size
 
@@ -253,7 +253,7 @@ Deaton, Angus. "Looking for Boy-Girl Discrimination in Household Expenditure Dat
 
 Qian, Nancy. "Missing Women and the Price of Tea in China." *Quarterly Journal of Economics* 123, no. 3 (2008): 1251-1285.
 
-Beaman, Lori, Esther Duflo, and Raghabendra Chattopadhyay. "[Powerful Women: Does Exposure Reduce Bias?](http://economics.mit.edu/files/3122)" University of California, San Diego, March 2008.
+Beaman, Lori, Esther Duflo, and Raghabendra Chattopadhyay. ["Powerful Women: Does Exposure Reduce Bias?" (PDF)](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/175.pdf). July 2008.
 
 Rose, Elaina. "Gender Bias, Credit Constraints and Time Allocation in Rural India." *The Economic Journal* 110, no. 465 (2000): 738-758.
 
@@ -333,9 +333,9 @@ Bertrand, M., S. Mullainathan, and D. Miller. "Public Policy and Extended Famili
 
 Case, A., and A. Deaton. "Large Cash Transfers to the Elderly in South Africa." *The Economic Journal* 108, no. 450 (1998): 1330-1361.
 
-Ashraf, Nava. "Spousal Control and Intra-household Decision Making: An Experimental Study in the Philippines." *American Economic Review* (forthcoming). ([PDF](http://www.people.hbs.edu/nashraf/SpousalControl_AER_app.pdf))
+Ashraf, Nava. "[Spousal Control and Intra-household Decision Making: An Experimental Study in the Philippines](https://www.aeaweb.org/articles?id=10.1257/aer.99.4.1245)." *American Economic Review* 99, no. 4 (2009): 1245-7.
 
-Robinson, Jonathan. "Limited Insurance Within the Household: Evidence from a Field Experiment in Western Kenya." University of California, Santa Cruz, April 2008. ([PDF](http://www.cid.harvard.edu/neudc07/docs/neudc07_s2_p02_robinson.pdf))
+Robinson, Jonathan. "[Limited Insurance Within the Household: Evidence from a Field Experiment in Western Kenya](https://www.aeaweb.org/articles?id=10.1257/app.4.4.140)." *American Economic Journal: Applied Economics* 4, no. 4 (2012):  140–64.
 
 Goldstein, Marcus, and Chris Udry. "[The Profits of Power: Land Rights and Agricultural Investment in Ghana.](https://www.jstor.org/stable/10.1086/595561)" Yale University, September 2008.
 
@@ -485,7 +485,7 @@ Aleem, Irfan. "Imperfect Information, Screening and the Costs of Informal Lendin
 
 Banerjee, Abhijit. "Contracting Constraints, Credit Markets, and Economic Development." In *Advances in Economics and Econometrics: Theory and Applications, Eight World Congress of the Econometric Society*. Vol. 3. Edited by M. Dewatripoint, L. Hansen and S. Turnovsky. Cambridge, UK: Cambridge University Press, 2003, pp. 1-46. ISBN: 9780521524131.
 
-Banerjee, Abhijit, and Esther Duflo. "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." Unpublished paper, August 2004. ([PDF](https://economics.mit.edu/files/509))
+Banerjee, Abhijit, and Esther Duflo. "[Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=316587)." 2008.
 
 Banerjee, Abhijit, and Kaivan Munshi. "How Efficiently is Capital Allocated? Evidence from the Knitted Garment Industry in Tirupur." *Review of Economic Studies* 71, no. 1 (2004): 19-42.
 
