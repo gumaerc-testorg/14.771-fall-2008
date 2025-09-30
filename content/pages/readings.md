@@ -95,15 +95,15 @@ Strauss, John, and Duncan Thomas. "Human Resources: Empirical Modeling of Househ
 
 Subramanian, Shankar, and Angus Deaton. "The Demand for Food and Calories." *Journal of Political Economy* 104 (1996): 133-162.
 
-Deaton, Angus, and Jean Drèze. "Nutrition in India: Facts and Interpretation." Unpublished paper, April 2008. ([PDF](https://www.princeton.edu/~deaton/downloads/Food_and_Nutrition_in_India_Facts_and_Interpretations.pdf))
+Deaton, Angus, and Jean Drèze. "Nutrition in India: Facts and Interpretation." Unpublished paper, April 2008. ({{% resource_link "c28edddd-0c94-4777-96ac-fc7ae3017a97" "PDF" %}})
 
 Dasgupta, Partha, and Debraj Ray. "Inequality as a Determinant of Malnutrition and Unemployment: Policy." *The Economic Journal* 97 (1986): 177-188.
 
 Miguel, Edward. "Poverty and Witch Killing." *The Review of Economic Studies* 72, no. 4 (2005): 1153-1172.
 
-Jensen, Robert T., and Nolan Miller. "Do Consumer Price Subsidies Really Improve Nutrition?" Center for International Development Working Paper No. 160, Harvard University, April 2008. ([PDF](http://www.cid.harvard.edu/cidwp/pdf/160.pdf))
+Jensen, Robert T., and Nolan Miller. "Do Consumer Price Subsidies Really Improve Nutrition?" Center for International Development Working Paper No. 160, Harvard University, April 2008. ({{% resource_link "4a00ea79-0a41-4aa1-9cf6-9a2aa63d2c31" "PDF" %}})
 
-———. "Giffen Behavior: Theory and Evidence." Center for International Development Working Paper No. 148, Harvard University, July 2007. ([PDF](http://www.cid.harvard.edu/cidwp/pdf/148.pdf))
+———. "Giffen Behavior: Theory and Evidence." Center for International Development Working Paper No. 148, Harvard University, July 2007. ({{% resource_link "44a260b6-0cb0-4419-a392-cf6eae2d56d6" "PDF" %}})
 
 Behrman, Jere R., and Anil B. Deolalikar. "Will Developing Country Nutrition Improve with Income? A Case Study for Rural South India." *Journal of Political Economy* 95, no. 3 (1987): 492-507.
 
@@ -115,13 +115,13 @@ Strauss, John, and Duncan Thomas. "Health, Nutrition and Economic Development." 
 
 Duflo, Esther, Abhijit Banerjee, and Angus Deaton. "Wealth, Health, and Health Services in Rural Rajasthan." *American Economic Review Papers and Proceedings* 94, no. 2 (2004): 326-330.
 
-Kremer, Michael, and Alaka Hola. "[Pricing and Access: Evidence from Randomized Evaluations in Education and Health](http://dx.doi.org/10.2139/ssrn.1390281)." Brookings Global Economy and Development Conference, August 2008.
+Kremer, Michael, and Alaka Hola. "{{% resource_link "0ebf9fdc-ef0a-4dcd-8567-4c2b59ad4200" "Pricing and Access: Evidence from Randomized Evaluations in Education and Health" %}}." Brookings Global Economy and Development Conference, August 2008.
 
-Cohen, Jessica, and Pascaline Dupas. "Free Distribution vs. Cost-Sharing: Evidence from a Malaria-Prevention Field Experiment in Kenya." Brookings Institution Global Economy and Development Working Paper No. 11, December 2007. ([PDF - 1.24 MB](https://www.nber.org/papers/w14406.pdf))
+Cohen, Jessica, and Pascaline Dupas. "Free Distribution vs. Cost-Sharing: Evidence from a Malaria-Prevention Field Experiment in Kenya." Brookings Institution Global Economy and Development Working Paper No. 11, December 2007. ({{% resource_link "43d3503a-1eca-4ab7-98b7-6682d22c8a44" "PDF - 1.24 MB" %}})
 
 Banerjee, Abhijit, Esther Duflo, Rachel Glennerster and Dhruva Kothari. "Improving Immunization Coverage in Rural India: A Clustered Randomized Controlled Evaluation of Immunization Campaigns With and Without Incentives." Massachusetts Institute of Technology, Cambridge, MA, 2008.
 
-Dow, Will, et al. "Health Care Prices, Health and Labor Outcomes: Experimental evidence." RAND Labor and Population Program Working Paper Series 97-01, DRU-1588-NIA, January 1997. ([PDF - 1.8 MB](http://www.rand.org/content/dam/rand/pubs/drafts/2008/DRU1588.pdf))
+Dow, Will, et al. "Health Care Prices, Health and Labor Outcomes: Experimental evidence." RAND Labor and Population Program Working Paper Series 97-01, DRU-1588-NIA, January 1997. ({{% resource_link "a0304f47-31a0-4d07-ad36-ec3d204fa3cd" "PDF - 1.8 MB" %}})
 
 Dupas, Pascaline. "Relative Risks and the Market for Sex: Teenage Pregnancy, HIV, and Partner Selection in Kenya." Unpublished paper, October 2007.
 
@@ -133,7 +133,7 @@ Productivity effects of health
 
 **Must Read in Detail**
 
-Bleakley, Hoyt. "Malaria Eradication in The Americas: A Retrospective Analysis of Childhood Exposure." Unpublished paper, August 2006. ([PDF - 1.5 MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7440&rep=rep1&type=pdf))
+Bleakley, Hoyt. "Malaria Eradication in The Americas: A Retrospective Analysis of Childhood Exposure." Unpublished paper, August 2006. ({{% resource_link "4841611f-2f97-4aaa-8872-f83ecff429d3" "PDF - 1.5 MB" %}})
 
 ### Nutrition
 
@@ -149,13 +149,13 @@ Foster, Andrew, and Mark Rosenzweig. "Information, Learning, and Wage Rates in R
 
 Miguel, Edward, and Michael Kremer. "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities." *Econometrica* 72, no. 1 (2004): 159-217.
 
-Field, Erica, Omar Robles, and Maximo Torero. "Iodine Deficiency and Schooling Attainment in Tanzania." Unpublished paper, January 2007. ([PDF - 1.3 MB](http://dx.doi.org/10.1257/app.1.4.140))
+Field, Erica, Omar Robles, and Maximo Torero. "Iodine Deficiency and Schooling Attainment in Tanzania." Unpublished paper, January 2007. ({{% resource_link "3ba4b692-4030-4e5a-ad98-d87a9fc82084" "PDF - 1.3 MB" %}})
 
 Bleakley, Hoyt. "Disease and Development: Evidence from Hookworm Eradication in the American South." *The Quarterly Journal of Economics* 122, no. 1 (2007): 73-117.
 
 Bobonis, Gustavo J., Edward Miguel, and Charu Puri Sharma. "Iron Deficiency Anemia and School Participation." *Journal of Human Resources* 41, no. 4 (2006): 692-721.
 
-Thomas, Duncan, et al. "Iron Deficiency and the Well-Being of Older Adults: Early Results from a Randomized Nutrition Intervention." Paper presented at the Population Association of America Annual Meetings, Minneapolis, April 2003, and the International Studies in Health and Economic Development Network meeting, San Francisco, May 2003. ([PDF](http://emlab.berkeley.edu/users/webfac/emiguel/e271_s04/friedman.pdf))
+Thomas, Duncan, et al. "Iron Deficiency and the Well-Being of Older Adults: Early Results from a Randomized Nutrition Intervention." Paper presented at the Population Association of America Annual Meetings, Minneapolis, April 2003, and the International Studies in Health and Economic Development Network meeting, San Francisco, May 2003. ({{% resource_link "09e2ba03-928e-4787-bfb0-f6c55e07c54f" "PDF" %}})
 
 ### Diseases
 
@@ -203,7 +203,7 @@ Angrist, Joshua, and Victor Lavy. "Using Maimonides' Rule to Estimate the Effect
 
 Urquiola, Miguel, and Eric Verhoogen. "Class Size Caps, Sorting, and the Regression Discontinuity Design." *American Economic Review* 99, no. 1 (2009): 179-215.
 
-Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects, Pupil-Teacher Ratios, and Teacher Incentives: Evidence from a Randomized Evaluation in Kenya." Unpublished paper, September 2007. ([PDF](https://web.stanford.edu/~pdupas/Tracking_rev.pdf))
+Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects, Pupil-Teacher Ratios, and Teacher Incentives: Evidence from a Randomized Evaluation in Kenya." Unpublished paper, September 2007. ({{% resource_link "a4807d3e-7397-4919-b04f-20030194a02d" "PDF" %}})
 
 ### Teacher absence
 
@@ -213,7 +213,7 @@ Banerjee, Abhijit, and Esther Duflo. "Addressing Absence." *Journal of Economic 
 
 ### Curriculum, pedagogy, tracking, etc.
 
-Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects and the Impacts of Tracking: Evidence from a Randomized Evaluation in Kenya." Unpublished paper, June 2007. ([PDF](http://dx.doi.org/10.1257/aer.101.5.1739))
+Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects and the Impacts of Tracking: Evidence from a Randomized Evaluation in Kenya." Unpublished paper, June 2007. ({{% resource_link "99d42e96-b3a7-4c4e-af82-1c56ea4d7ef3" "PDF" %}})
 
 Glewwe, Paul, Michael Kremer, and Sylvie Moulin. "Many Children Left Behind? Textbooks and Test Scores in Kenya." *American Economic Journal: Applied Economics* 1, no. 1 (2009): 112-135.
 
@@ -235,7 +235,7 @@ Urquiola, Miguel, and Chang-Tai Hsieh. "The Effects of Generalized School Choice
 
 Foster, Andrew, and Mark Rosenzweig. "Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution." *American Economic Review* 84, no. 4 (1996): 931-953.
 
-Jensen, Robert. "The Perceived Returns to Education and the Demand for Schooling." Unpublished paper, 2007. ([PDF](http://cega.berkeley.edu/assets/cega_research_projects/58/The_Perceived_Returns_to_Education_and_the_Demand_for_Schooling.pdf))
+Jensen, Robert. "The Perceived Returns to Education and the Demand for Schooling." Unpublished paper, 2007. ({{% resource_link "975b0771-57cb-4406-bb9d-f1a046c1dd9b" "PDF" %}})
 
 Nguyen, Trang. "Information, Role Models and Perceived Returns to Education: Experimental Evidence from Madagascar." MIT, January 2008.
 
@@ -247,13 +247,13 @@ Gender discrimination
 
 Rose, Eliana. "Consumption Smoothing and Excess Female Mortality in Rural India." *Review of Economics and Statistics* 81, no. 1 (1999): 41-49.
 
-Foster, Andrew, and Mark Rosenzweig. "Missing Women, the Marriage Market and Economic Growth." Unpublished paper, November 2001. ([PDF](http://adfdell.pstc.brown.edu/papers/sex.pdf))
+Foster, Andrew, and Mark Rosenzweig. "Missing Women, the Marriage Market and Economic Growth." Unpublished paper, November 2001. ({{% resource_link "ae8fb045-7b4e-48fa-9515-504746574de2" "PDF" %}})
 
 Deaton, Angus. "Looking for Boy-Girl Discrimination in Household Expenditure Data." *World Bank Economic Review* 3, no. 1 (1989): 1-15.
 
 Qian, Nancy. "Missing Women and the Price of Tea in China." *Quarterly Journal of Economics* 123, no. 3 (2008): 1251-1285.
 
-Beaman, Lori, Esther Duflo, and Raghabendra Chattopadhyay. ["Powerful Women: Does Exposure Reduce Bias?" (PDF)](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/175.pdf). July 2008.
+Beaman, Lori, Esther Duflo, and Raghabendra Chattopadhyay. {{% resource_link "1190550b-16af-4833-8b00-5560e147e086" "\"Powerful Women: Does Exposure Reduce Bias?\" (PDF)" %}}. July 2008.
 
 Rose, Elaina. "Gender Bias, Credit Constraints and Time Allocation in Rural India." *The Economic Journal* 110, no. 465 (2000): 738-758.
 
@@ -279,13 +279,13 @@ Duflo, Esther, and Rohini Pande. "Dams." *Quarterly Journal of Economics* 122, n
 
 Galiani, S., P. Gertler, and E. Schargrodsky. "Water for Life: The Impact of the Privatization of Water Services on Child Mortality." *Journal of Political Economy* 113, no. 1 (2005): 83-120.
 
-Khwaja, Asim Ijaz. "Can Good Projects Succeed In Bad Communities?" Kennedy School of Government, Harvard University, December 2007. ([PDF](https://khwaja.scholar.harvard.edu/files/asimkhwaja/files/good_projects.pdf))
+Khwaja, Asim Ijaz. "Can Good Projects Succeed In Bad Communities?" Kennedy School of Government, Harvard University, December 2007. ({{% resource_link "9b127b1f-2fce-48d7-9f3b-e702c350d261" "PDF" %}})
 
 Olken, Benjamin A. "Monitoring Corruption: Evidence from a Field Experiment in Indonesia." *Journal of Political Economy* 115, no. 2 (2007): 200-249.
 
 Wade, Robert. *Village Republics: Economic Conditions for Collective Action in South India*. Cambridge, UK: Cambridge University Press, 2007. ISBN: 9780521051781.
 
-Dinkleman, Taryn. "The Effects of Rural Electrification on Employment: New Evidence from South Africa." Job Market Paper. University of Michigan, January 2008. ([PDF](http://faculty.ucr.edu/~jorgea/econ261/electricity.pdf))
+Dinkleman, Taryn. "The Effects of Rural Electrification on Employment: New Evidence from South Africa." Job Market Paper. University of Michigan, January 2008. ({{% resource_link "3a483320-9266-46eb-bb3b-091596e3fe96" "PDF" %}})
 
 ### Redistribution
 
@@ -303,7 +303,7 @@ Sumarto, S., A. Suryahadi, and L. Pritchett. "Safety Nets or Safety Ropes? Dynam
 
 Fisman, Raymond, and Shang-Jin Wei. "Tax Rates and Tax Evasion: Evidence from 'Missing Imports' in China." *Journal of Political Economy* 112, no. 2 (2004): 471-496.
 
-Gordon, Roger H., and Wei Li. "Tax Structure in Developing Countries: Many Puzzles and a Possible Explanation." NBER Working Paper No. W11267, March 2005. ([PDF](http://www.econ.ucsd.edu/~rogordon/puzzles16.pdf))
+Gordon, Roger H., and Wei Li. "Tax Structure in Developing Countries: Many Puzzles and a Possible Explanation." NBER Working Paper No. W11267, March 2005. ({{% resource_link "fb0fe1fa-571e-4e0d-bd5f-179accd83695" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11-12
@@ -313,7 +313,7 @@ Decision making within families
 
 **Must Read in Detail**
 
-Duflo, Esther, and Christopher Udry. "[Intrahousehold Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices.](https://www.nber.org/papers/w10498)" MIT, June 2003. (PDF)
+Duflo, Esther, and Christopher Udry. "{{% resource_link "32aeeee7-24a8-4888-bf35-450355bff8c4" "Intrahousehold Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices." %}}" MIT, June 2003. (PDF)
 
 **Other Readings**
 
@@ -333,11 +333,11 @@ Bertrand, M., S. Mullainathan, and D. Miller. "Public Policy and Extended Famili
 
 Case, A., and A. Deaton. "Large Cash Transfers to the Elderly in South Africa." *The Economic Journal* 108, no. 450 (1998): 1330-1361.
 
-Ashraf, Nava. "[Spousal Control and Intra-household Decision Making: An Experimental Study in the Philippines](https://www.aeaweb.org/articles?id=10.1257/aer.99.4.1245)." *American Economic Review* 99, no. 4 (2009): 1245-7.
+Ashraf, Nava. "{{% resource_link "ac55e642-b3ee-4ca7-bb12-c3940706be27" "Spousal Control and Intra-household Decision Making: An Experimental Study in the Philippines" %}}." *American Economic Review* 99, no. 4 (2009): 1245-7.
 
-Robinson, Jonathan. "[Limited Insurance Within the Household: Evidence from a Field Experiment in Western Kenya](https://www.aeaweb.org/articles?id=10.1257/app.4.4.140)." *American Economic Journal: Applied Economics* 4, no. 4 (2012):  140–64.
+Robinson, Jonathan. "{{% resource_link "e94877e3-1e51-4344-90c7-85106b201d9e" "Limited Insurance Within the Household: Evidence from a Field Experiment in Western Kenya" %}}." *American Economic Journal: Applied Economics* 4, no. 4 (2012):  140–64.
 
-Goldstein, Marcus, and Chris Udry. "[The Profits of Power: Land Rights and Agricultural Investment in Ghana.](https://www.jstor.org/stable/10.1086/595561)" Yale University, September 2008.
+Goldstein, Marcus, and Chris Udry. "{{% resource_link "ffa4ef25-7212-40f3-a4f3-e8e52e4a16b3" "The Profits of Power: Land Rights and Agricultural Investment in Ghana." %}}" Yale University, September 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13-14
@@ -373,7 +373,7 @@ Perez-Gonzalez, Francisco. "Inherited Control and Firm Performance." *American E
 
 la Porta, Rafael, Florencio Lopez-De-Silanes, and Andrei Shleifer. "Corporate Ownership Around the World." *The Journal of Finance* 54, no. 2 (1999): 471-517.
 
-Caselli, Francesco, and Nicola Gennaioli. "Dynastic Management." NBER Working Paper No. 9442, December 2005. ([PDF](http://personal.lse.ac.uk/casellif/papers/dynastic.pdf))
+Caselli, Francesco, and Nicola Gennaioli. "Dynastic Management." NBER Working Paper No. 9442, December 2005. ({{% resource_link "49958935-569f-419f-b0c1-8780f972292a" "PDF" %}})
 
 Burkart, Panunzi, and Andrei Shleifer. "Family Firms." *Journal of Finance* 58, no. 5 (2003): 2167-2202.
 
@@ -393,9 +393,9 @@ Foster, A. D., and M. R. Rosenzweig. "Learning by Doing and Learning from Others
 
 Jensen, R. "The Digital Provide: Information (Technology), Market Performance and Welfare in the South Indian Fisheries Sector." *Quarterly Journal of Economics* 122, no. 3 (2008): 879-924.
 
-Duflo, Esther, Michael Kremer, and Jonathan Robinson. "Understanding Technology Adoption: Fertilizer in Western Kenya, Evidence from Field Experiments." Unpublished working paper, April 2006. ([PDF](https://pdfs.semanticscholar.org/f522/5b7ab77fd41c8224fb26e48d4fb00425d460.pdf))
+Duflo, Esther, Michael Kremer, and Jonathan Robinson. "Understanding Technology Adoption: Fertilizer in Western Kenya, Evidence from Field Experiments." Unpublished working paper, April 2006. ({{% resource_link "607a1bd6-2fb6-4271-a8fb-9ad03da46e7d" "PDF" %}})
 
-Conley, Timothy, and Christopher Udry. "[Learning about a New Technology: Pineapple in Ghana](https://www.aeaweb.org/articles?id=10.1257/aer.100.1.35)." *American Economic Review* 100 (no. 1): 2010. 
+Conley, Timothy, and Christopher Udry. "{{% resource_link "da7aa74b-1201-4f25-b54d-6665d5c53ca9" "Learning about a New Technology: Pineapple in Ghana" %}}." *American Economic Review* 100 (no. 1): 2010. 
 
 Oriana, Bandeira, and Imran Rasul. "Social Networks and Technology Adoption in Northern Mozambique." *The Economic Journal* 116, no. 514 (2006): 869-902.
 
@@ -407,7 +407,7 @@ Kremer, Michael. "Pharmaceuticals and the Developing World." *Journal of Economi
 
 Glennerster, Rachel, Michael Kremer, and Heidi Williams. "Creating Markets for Vaccines." *Innovations* 1, no. 1 (2006): 67-79.
 
-Aghion, Pierre, Robin Burgess, Stephen Redding, and Fabrizio Zilibotti. "The Unequal Effects of Liberalization: Evidence from Dismantling the License Raj in India." *American Economic Review* 98, no. 4 (2008): 1397-1412. ([PDF](http://sticerd.lse.ac.uk/dps/de/DEDPS45.pdf))
+Aghion, Pierre, Robin Burgess, Stephen Redding, and Fabrizio Zilibotti. "The Unequal Effects of Liberalization: Evidence from Dismantling the License Raj in India." *American Economic Review* 98, no. 4 (2008): 1397-1412. ({{% resource_link "dd40892f-f728-46c8-8d6f-e9cd747e0daf" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17-18
@@ -439,7 +439,7 @@ Munshi, Kaivan. "Networks in the Modern Economy: Mexican Migrants in the U.S. La
 
 Yang, Dean. "International Migration, Remittances, and Household Investment: Evidence from Philippine Migrants' Exchange Rate Shocks." *The Economic Journal* 118, no. 528 (2008): 591-630.
 
-Munshi, Kaivan, and Mark Rosenzweig. "Why is Mobility in India So Low? Social Insurance, Inequality, and Growth." Unpublished paper, March 2009. ([PDF](https://pdfs.semanticscholar.org/f8e8/be763f6cb0cd1b1b10a24a2c935f613f9057.pdf))
+Munshi, Kaivan, and Mark Rosenzweig. "Why is Mobility in India So Low? Social Insurance, Inequality, and Growth." Unpublished paper, March 2009. ({{% resource_link "2c6a4c5d-ac5d-41ac-a5a9-da13a6e42406" "PDF" %}})
 
 Banerjee, A. V., and A. F. Newman. "Information, the Dual Economy, and Development." *Review of Economic Studies* 65, no. 4 (1998): 631-53.
 
@@ -459,13 +459,13 @@ Banerjee, Abhijit, Paul Gertler and Maitresh Ghatak. "Empowerment and Efficiency
 
 Shaban, Radwan. "Testing between Competing Models of Sharecropping." *Journal of Political Economy* 95, no. 5 (1987): 893-920.
 
-Banerjee, Abhijit. "[Prospects and Strategies for Land Reforms](https://dspace.mit.edu/bitstream/handle/1721.1/63873/landreformsprosp00bane.pdf?sequence=1)." In *Annual World Bank Conference on Development Economics 1999*. Edited by Boris Pleskovic and Joseph E. Stiglitz. Washington, DC: World Bank, 2001, pp. 253-284. ISBN: 9780821349052.
+Banerjee, Abhijit. "{{% resource_link "83bacb26-86bf-422c-b27d-7176a9449d0b" "Prospects and Strategies for Land Reforms" %}}." In *Annual World Bank Conference on Development Economics 1999*. Edited by Boris Pleskovic and Joseph E. Stiglitz. Washington, DC: World Bank, 2001, pp. 253-284. ISBN: 9780821349052.
 
 Field, Erica. "Entitled to Work: Urban Property Rights and Labor Supply in Peru." Unpublished paper, July 2003.
 
 Field, Erica, and Maximo Torero. "Do Property Titles Increase Credit Access Among the Urban Poor? Evidence from a Nationwide Titling Program." Unpublished paper, January 2004.
 
-Goldstein, Marcus, and Chris Udry. "Gender, Power and Agricultural Investment in Ghana." Unpublished paper, April 2004. ([PDF](http://web.mit.edu/14.771/www/genderag4.pdf))
+Goldstein, Marcus, and Chris Udry. "Gender, Power and Agricultural Investment in Ghana." Unpublished paper, April 2004. ({{% resource_link "f6f84dc4-8970-42fd-a88c-1e02e2fd20fb" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -475,7 +475,7 @@ The supply-side of the markets for credit and savings
 
 **Must Read in Detail**
 
-Karlan, Dean, and Jonathan Zinman. "Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment." Unpublished paper, September 2008. ([PDF](https://www.povertyactionlab.org/sites/default/files/research-paper/363%20-%20information%20asymmetries%20working%20dec%202008.pdf)) 
+Karlan, Dean, and Jonathan Zinman. "Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment." Unpublished paper, September 2008. ({{% resource_link "43b75c43-85d2-47ec-ba62-9ba0d3b72e75" "PDF" %}}) 
 
 **Other Readings**
 
@@ -485,7 +485,7 @@ Aleem, Irfan. "Imperfect Information, Screening and the Costs of Informal Lendin
 
 Banerjee, Abhijit. "Contracting Constraints, Credit Markets, and Economic Development." In *Advances in Economics and Econometrics: Theory and Applications, Eight World Congress of the Econometric Society*. Vol. 3. Edited by M. Dewatripoint, L. Hansen and S. Turnovsky. Cambridge, UK: Cambridge University Press, 2003, pp. 1-46. ISBN: 9780521524131.
 
-Banerjee, Abhijit, and Esther Duflo. "[Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=316587)." 2008.
+Banerjee, Abhijit, and Esther Duflo. "{{% resource_link "77b65fdc-a12b-49e6-84ab-eb5cbef4d3e4" "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program" %}}." 2008.
 
 Banerjee, Abhijit, and Kaivan Munshi. "How Efficiently is Capital Allocated? Evidence from the Knitted Garment Industry in Tirupur." *Review of Economic Studies* 71, no. 1 (2004): 19-42.
 
@@ -493,13 +493,13 @@ Banerjee, Abhijit, and Kaivan Munshi. "How Efficiently is Capital Allocated? Evi
 
 Burgess, Robin, and Rohini Pande. "Do Rural Banks Matter? Evidence from the Indian Social Banking Experiment." *American Economic Review* 95, no. 3 (2005): 780-795.
 
-Cole, Shawn A. "Fixing Market Failures or Fixing Elections? Agricultural Credit in India." Unpublished paper, April 2007. ([PDF](http://www.hbs.edu/faculty/Publication%20Files/09-001_1649ed2c-1ee6-491e-a163-c3def5e47c5d.pdf))
+Cole, Shawn A. "Fixing Market Failures or Fixing Elections? Agricultural Credit in India." Unpublished paper, April 2007. ({{% resource_link "071ca74f-8a48-4766-8c4b-5dca5cd2019a" "PDF" %}})
 
 Khwaja, Asim, and Atif Mian. "Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market." *Quarterly Journal of Economics* 120, no. 4 (2005): 1371-1411.
 
-Paravasini, Daniel, Andrew Hertzberg and Jose Liberti. "Information and Incentives inside the Firm: Evidence from Loan Officer Rotation." Unpublished paper, March 2007. ([PDF](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/2460/Rotation%20May_06_08%20with%20Tables.pdf))
+Paravasini, Daniel, Andrew Hertzberg and Jose Liberti. "Information and Incentives inside the Firm: Evidence from Loan Officer Rotation." Unpublished paper, March 2007. ({{% resource_link "34cca24d-f1d1-488e-90cb-dbad98f41693" "PDF" %}})
 
-———. "[Public Information and Coordination: Evidence from a Credit Registry Expansion](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1263594)." Unpublished paper, October 2008.
+———. "{{% resource_link "b41b8c1f-830e-4ac2-a1bd-0bcd06550397" "Public Information and Coordination: Evidence from a Credit Registry Expansion" %}}." Unpublished paper, October 2008.
 
 Morduch, Jonathan. "The Microfinance Promise." *Journal of Economic Literature* 37, no. 4 (1999): 1569-1614.
 
@@ -517,7 +517,7 @@ The demand-side of the markets for credit and savings
 
 **Must Read in Detail**
 
-Banerjee, Abhijit, and Sendhil Mullainathan. "[The Shape of Temptation: Implications for the Economic Lives of the Poor](https://economics.mit.edu/sites/default/files/publications/The%20Shape%20of%20Temptation.pdf)." Unpublished paper, September 2008. (PDF)
+Banerjee, Abhijit, and Sendhil Mullainathan. "{{% resource_link "cbfee1a1-99f7-4e66-bed4-a3ca0a506e53" "The Shape of Temptation: Implications for the Economic Lives of the Poor" %}}." Unpublished paper, September 2008. (PDF)
 
 **Other Readings**
 
